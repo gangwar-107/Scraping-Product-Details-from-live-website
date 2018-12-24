@@ -1,5 +1,6 @@
 '''
---> A project to Scrap The Product Names and their Links                                                    
+--> A project to Scrap The Product Names and their Links  from live websites
+    using beautiful soup
 '''
 
 #importing the important libraries
