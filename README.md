@@ -8,7 +8,7 @@ Web scraping is a technique to exrtract large amount of data from websites where
 3. Simply extract the data from the web pages.
 4. Transform the data into useful format.
 
-# process to access the html code of live site
+# Process to access the html code of live site
 
 user ---> Request ---> Server -----> Response ----->Html code
 
@@ -34,7 +34,7 @@ HTML code is like a Tree of tags and Beautiful soup is used to parse the tree fo
  
  # References:
  
- Below is the link of web site which is used to scrap the data:
+ Below is the link of website which is used to scrap the data:
  
   http://www.consumerreports.org/cro/a-to-z-index/products/index.htm
  
