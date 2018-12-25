@@ -26,15 +26,16 @@ HTML code is like a Tree of tags and Beautiful soup is used to parse the tree fo
                       
  # Required packages:
  
- 1. requests           pip install requests
- 2. Beautiul Soup      pip install beautifulsoup4
- 3. UserAgent          pip install fake-useragent
- 4. xlsxwriter         pip install xlsxwriter
- 5. xlrd               pip install xlrd
+ 1. requests                     (pip install requests)
+ 2. Beautiul Soup                (pip install beautifulsoup4)
+ 3. UserAgent                    (pip install fake-useragent)
+ 4. xlsxwriter                   (pip install xlsxwriter)
+ 5. xlrd                         (pip install xlrd)
  
  # References:
  
  Below is the link of web site which is used to scrap the data:
+ 
   http://www.consumerreports.org/cro/a-to-z-index/products/index.htm
  
                       
